@@ -32,7 +32,7 @@ Users able to:
 ### run the project:
 
 ```
-git clone https://github.com/effip24/invoice-webapp-frontend.git
+git clone https://github.com/Cyber-Ayu/Invoice_App.git
 ```
 
 ```

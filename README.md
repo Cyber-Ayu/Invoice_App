@@ -13,8 +13,6 @@ Users able to:
 - Toggle light and dark mode
 - Keep track of any changes, even after refreshing the browser
 
-#### Live: https://invoice-app-effip.netlify.app/
-
 #### Technologies and Techniques
 
 <p align="left"> 

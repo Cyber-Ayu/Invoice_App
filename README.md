@@ -36,10 +36,6 @@ git clone https://github.com/Cyber-Ayu/Invoice_App.git
 ```
 
 ```
-cd invoice-webapp-frontend
-```
-
-```
 npm install
 ```
 
